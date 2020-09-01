@@ -23,9 +23,6 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
-      {% if author.location %}
-      <li><i class="fas fa-city " aria-hidden="true"></i> {{ author.location }}</li>
-      {% endif %}
       {% if author.employer %}
       <li><i class="fas fa-university" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
@@ -147,6 +144,9 @@
       {% endif %}
       {% if author.csdn %}
       <li><a href="{{ author.csdn }}"><i class=" fas fa-blog" aria-hidden="true"></i> CSDN</a></li>
+      {% endif %}
+      {% if author.location %}
+      <li><i class="fas fa-city " aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
     </ul>
   </div>
