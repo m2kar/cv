@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (Curriculum Vitae)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -31,16 +31,17 @@ Work experience
 
 Skills
 ======
+
 * IoT Security Analysis
 * Network Traffic Analysis
 * Static Code Analysis
-* Code
-  * Python
-  * C
-  * C++
-* English
-  * CET 6
-
+* Coding: Python, C, C++
+* English:
+  * CET 6 Qualification
+  * Proficient in English paper reading and writing
+* China Qualification Certificate of Computer and Software Technology Proficiency
+  * Network Engineer
+  * Software Design Engineer
 
 Publications
 ======
