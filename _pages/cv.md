@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-* M.S. in Computer Technology, University of China Academic Of Science, 2018-2020. Beijing, China.
+* M.S. in Computer Technology, University of China Academic of Science, 2018-2020. Beijing, China.
 * B.S. in Forensic Medical, China Medical University, 2013-2018. Shenyang, China.
 
 Work experience
