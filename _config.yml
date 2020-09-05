@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Zhiqing Rui (芮志清)"
 title_separator          : "-"
-name                     : &name "Zhiqing Rui"
-description              : &description "IoT Security Engineer"
+name                     : &name "Zhiqing Rui (芮志清)"
+description              : &description "Security Engineer"
 url                      : https://m2kar.cn/cv # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "m2kar/cv"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhiqing Rui"
   avatar           : "profile.jpg"
-  bio              : "IoT Security Engineer at Institute of Software, China Academic of Science. Focus at IoT Security and Network Traffic Analysis."
+  bio              : "Security Engineer at Institute of Software, China Academic of Science. Focus at IoT Security and Network Traffic Analysis."
   employer         : Institute of Software,</br> China Academic of Science
   location         : "Beijing, China"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
