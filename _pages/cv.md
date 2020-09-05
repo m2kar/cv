@@ -10,28 +10,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 
 * M.S. in Computer Technology, University of China Academic of Science, 2018-2020. Beijing, China.
 * B.S. in Forensic Medical, China Medical University, 2013-2018. Shenyang, China.
 
-Work experience
-======
+## Work Experience
+
 * Aug. 2020 - Now: Security Engineer
   * Department: [Intelligent Software Research Center (ISRC)](https://isrc.iscas.ac.cn/)
   * Institution: [Institute of Software, China Academic of Science (ISCAS)](http://www.iscas.ac.cn/)
   * Duties included: IoT Security Research, Network Traffic Analysis.
-  * Supervisor: Professor Jingzheng Wu [Google Scholar](https://scholar.google.com/citations?user=ePUcUP4AAAAJ&hl=en)
+  * Supervisor: Professor [Jingzheng Wu](https://scholar.google.com/citations?user=ePUcUP4AAAAJ&hl=en)
 
 * Aug. 2018 - Aug. 2020: Intern Research Assistant
   * Department: Intelligent Software Research Center (ISRC)
   * Institute of Software, China Academic of Science (ISCAS)
   * Duties included: Static Code Analysis, IoT Security Research, Network Traffic Analysis.
-  * Supervisor: Professor Jingzheng Wu [Google Scholar](https://scholar.google.com/citations?user=ePUcUP4AAAAJ&hl=en)
+  * Supervisor: Professor [Jingzheng Wu](https://scholar.google.com/citations?user=ePUcUP4AAAAJ&hl=en)
 
-Skills
-======
+## Skills
 
 * IoT Security Analysis
 * Network Traffic Analysis
@@ -44,8 +42,8 @@ Skills
   * Network Engineer
   * Software Design Engineer
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
