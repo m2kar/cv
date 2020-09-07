@@ -17,13 +17,13 @@ redirect_from:
 
 ## Work Experience
 
-* Aug. 2020 - Now: Security Engineer
+* August, 2020 - Now: Security Engineer
   * Department: [Intelligent Software Research Center (ISRC)](https://isrc.iscas.ac.cn/)
   * Institution: [Institute of Software, China Academic of Science (ISCAS)](http://www.iscas.ac.cn/)
   * Duties included: IoT Security Research, Network Traffic Analysis.
   * Supervisor: Professor [Jingzheng Wu](https://scholar.google.com/citations?user=ePUcUP4AAAAJ&hl=en)
 
-* Aug. 2018 - Aug. 2020: Intern Research Assistant
+* August, 2018 - August, 2020: Intern Research Assistant
   * Department: Intelligent Software Research Center (ISRC)
   * Institute of Software, China Academic of Science (ISCAS)
   * Duties included: Static Code Analysis, IoT Security Research, Network Traffic Analysis.
