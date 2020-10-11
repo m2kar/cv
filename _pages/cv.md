@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-> Update time: September 5, 2020
+> Update time: September 11, 2020
+> 【[PDF](https://m2kar.cn/cv/files/CV_Zhiqing_Rui.pdf)】
 
 {% include base_path %}
 
