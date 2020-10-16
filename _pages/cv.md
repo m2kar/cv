@@ -10,7 +10,7 @@ redirect_from:
 >
 > [Download PDF Version](https://m2kar.cn/cv/files/CV_Zhiqing_Rui.pdf)
 > 
-> [Download PDF Version]({{ base_path }}/files/CV_Zhiqing_Rui.pdf)
+> [Download PDF Version]({{ site.url }}/files/CV_Zhiqing_Rui.pdf)
 
 {% include base_path %}
 
