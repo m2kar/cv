@@ -9,6 +9,8 @@ redirect_from:
 > Update time: September 11, 2020
 >
 > [Download PDF Version](https://m2kar.cn/cv/files/CV_Zhiqing_Rui.pdf)
+> 
+> [Download PDF Version]({{ base_path }}/files/CV_Zhiqing_Rui.pdf)
 
 {% include base_path %}
 
