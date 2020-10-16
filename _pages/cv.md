@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-> Update time: September 11, 2020
+> Update time: Oct. 15th, 2020
 >
 > [Download PDF Version]({{ site.url }}/files/CV_Zhiqing_Rui.pdf)
 
