@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-> Update time: Oct. 15th, 2020
->
-> [Download PDF Version]({{ site.url }}/files/CV_Zhiqing_Rui.pdf)
+
+
+[Download CV_Zhiqing_Rui.pdf]({{ site.url }}/files/CV_Zhiqing_Rui.pdf)
 
 {% include base_path %}
 
